@@ -23,4 +23,7 @@ __Objetivo:__ Debes intentar adivinar la palabra oculta en el menor número de i
 
 ![Ejemplos_de_juego](./images/juego-ejemplos.png)
 
-__NOTA__ Para reiniciar el juego se debe volver a correr.
+
+Para reiniciar el juego se debe volver a correr.
+
+__NOTA__: Se pueden agragar más palabras en el archivo __palabras.py__
